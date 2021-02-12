@@ -8,7 +8,7 @@ My PhD research projects investigate the mechanisms underlying cognitive deifici
 - in vivo multiwire electrode recordings and computational neuroscience approaches to examine impulsivity in NF1
 - biochemistry and gene targeting to investigate a novel treatment targeting cognitive phenotypes and tumor predisposition in NF1
 
-## Publications
+# Publications
 
 Lukkes JL, **Drozd HP**, Fitz SD, Molosh AI, Clapp DW, Shekhar A. Guanfacine treatment improves ADHD phenotypes of impulsivity and hyperactivity in a neurofibromatosis type 1 mouse model. J Neurodev Disord. 2020 Jan 15;12(1):2. doi: 10.1186/s11689-019-9304-y. PMID: 31941438; PMCID: PMC6961243.
 
@@ -16,7 +16,7 @@ Lukkes JL, **Drozd HP**, Fitz SD, Molosh AI, Clapp DW, Shekhar A. Guanfacine tre
 
 
 
-## Posters
+# Posters
 
 **H.P. Drozd**, J.L. Lukkes, A.R. Abreu, E.T. Dustrude, D. Wade Clapp, A.I. Molosh, A. Shekhar. The basolateral amygdala plays an integral role in modulating social memory deficits in neurofibromatosis type 1 mice was accepted at the Society for Neuroscience poster session 2019, presented by H.P. Drozd.
 
@@ -30,28 +30,33 @@ J.L. Lukkes, S.D. Fitz, **H.P. Drozd**, D. Wade Clapp, A.I. Molosh, A. Shekhar. 
 
 
 
-## Mentorship
-### I would like to thank my fabulous mentors for their dedication to my training and success as a future physician-scientist:
+# Mentorship
+## I would like to thank my fabulous mentors for their dedication to my training and success as a future physician-scientist:
 
-Anantha Shekhar, MD, PhD
+### Anantha Shekhar, MD, PhD
 - Senior Vice Chancellor for the Health Sciences, John and Gertrude Petersen Dean, University of Pittsburgh School of Medicine
-D. Wade Clapp, MD
+
+### D. Wade Clapp, MD
 - Department of Pediatrics Chair, Indiana University School of Medicine
-Jodi Lukkes, PhD
+
+### Jodi Lukkes, PhD
 - Assistant Research Professor of Psychiatry, Indiana University School of Medicine
-Christopher Lapish, PhD
+
+### Christopher Lapish, PhD
 - Associate Professor, Indiana University Purdue University Indianapolis
-David McKinzie, PhD
+
+### David McKinzie, PhD
 - Professor of Pharmacology & Toxicology, Indiana University School of Medicine
-Michelle Block, PhD
+
+### Michelle Block, PhD
 - Paul Stark Professor of Pharmacology, Indiana University School of Medicine
 
-## News
+# News
 
-### 2021
+## 2021
 
 
-### 2020
+## 2020
 June 2020 - Awarded NIH Ruth L. Kirschstein National Research Service Predoctoral F30 Fellowship Award from the NIMH for my project: “Molecular
 Mechanisms of ADHD in Neurofibromatosis Type 1”.
 
