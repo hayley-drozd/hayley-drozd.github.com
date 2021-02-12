@@ -1,8 +1,19 @@
-## Welcome to GitHub Pages
+# Welcome to Hayley Drozd's website
 
-You can use the [editor on GitHub](https://github.com/hayley-drozd/hayley-drozd.github.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am an MD-PhD candidate in the Indiana University School of Medicine Medical Scientist Training Program. My clinical interests are in Pediatrics, particularly Neurodevelopmental Disorders. My PhD project investigates the mechanisms underlying ADHD in Neurofibromatosis Type 1, using a preclinical model to incorporate approaches such as behavioral neuroscience, pharmacology, optogenetics, in vivo multiwire electrode recordings, and computational neuroscience.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##News
+
+### 2021
+
+
+### 2020
+June 2020 - Awarded NIH Ruth L. Kirschstein National Research Service Predoctoral F30 Fellowship Award from the NIMH for my project: “Molecular
+Mechanisms of ADHD in Neurofibromatosis Type 1”.
+
+January 2020 - Published a co-authored paper with Dr. Jodi Lukkes in Journal of Neurodevelopmental Disorders: Guanfacine decreases impulsivity and hyperactivity in a Neurofibromatosis type 1 by J.L. Lukkes, **H.P. Drozd**, S.D. Fitz, D. Wade Clapp, A.I. Molosh, A. Shekhar.
+mouse model of ADHD 
+
 
 ### Markdown
 
