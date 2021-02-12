@@ -2,7 +2,11 @@
 
 I am an MD-PhD candidate at the Indiana University School of Medicine Medical Scientist Training Program. I'm currently in my 5th year of the MSTP and 3rd year of graduate school in the Medical Neurosciences program. My long-term goal is to be a leading physician scientist in Developmental Pediatrics, bridging the global impact of scientific discovery to the direct impact of patient care and community advocacy for children and adults with neurodevelopmental disorders. 
 
-My PhD research projects investigate the mechanisms underlying cognitive deificits in Neurofibromatosis Type 1 using a preclinical mouse model. Neurofibromatosis type 1 (NF1) is one of the most common genetic disorders worldwide, with no curative treatment for its many symptoms: neurocutaneous lesions, developmental disorders, and tumors. One of the most substantial concerns for NF1 patients are cognitive symptoms inlcuding an increased incidence of autism spectrum disorders (30% of patients) and attention deficit hyperactivity disorder (ADHD) (50-80% of patients). My projects investigate the underlying mechanisms of these cognitive features of NF1 using optogenetic approaches to map brain areas involved in social memory, behavioral and pharmacologic approaches to phenotype novel ADHD behaviors, and in vivo multiwire electrode recordings and computational neuroscience approaches to dissect the circuitry underlying impulsivity in NF1.
+My PhD research projects investigate the mechanisms underlying cognitive deificits in Neurofibromatosis Type 1 using a preclinical mouse model. Neurofibromatosis type 1 (NF1) is one of the most common genetic disorders worldwide, with no curative treatment for its many symptoms: neurocutaneous lesions, developmental disorders, and tumors. One of the most substantial concerns for NF1 patients are cognitive symptoms inlcuding an increased incidence of autism spectrum disorders (30% of patients) and attention deficit hyperactivity disorder (ADHD) (50-80% of patients). My projects investigate the underlying mechanisms of these cognitive features of NF1 using: 
+- optogenetic approaches to map brain areas involved in social memory
+- behavioral and pharmacologic approaches to phenotype novel ADHD behaviors
+- in vivo multiwire electrode recordings and computational neuroscience approaches to examine impulsivity in NF1
+- biochemistry and gene targeting to investigate a novel treatment targeting cognitive phenotypes and tumor predisposition in NF1
 
 ## Publications
 
