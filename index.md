@@ -78,7 +78,7 @@ December - Resubmission application to NIH Ruth L. Kirschstein National Research
 
 October - Attended first international conference: Society for Neuroscience 2019. Presented poster: The basolateral amygdala plays an integral role in modulating social memory deficits in neurofibromatosis type 1 mice.
 
-September - Got married to the love of my life, Holland Andrew - cheers! <3
+September - Got married to the love of my life, Holland Andrew - cheers! <3 ![wedding](https://user-images.githubusercontent.com/68130554/107823057-1c525800-6d4d-11eb-885d-eefde7d8350d.png)
 
 August - Rineet Ranga, my summer mentee, presented his summer project at Indianapolis Project Seed oral and poster sessions in August - great job Rineet!
 
@@ -100,9 +100,9 @@ March - Completed USMLE Step 1 examination!
 February - Accepted to the IUSM MSTP!
 
 ## 2017
-May to August - IMPRS SRPinAM 3rd Place: William H. and Fern L. Hardiman Scholarship for Poster and Oral Presentation of Autism and ADHD in NF1: Insights from a Mouse Model 
+May to August - IMPRS SRPinAM 3rd Place: William H. and Fern L. Hardiman Scholarship for Poster and Oral Presentation of Autism and ADHD in NF1: Insights from a Mouse Model ![IMPRS](https://user-images.githubusercontent.com/68130554/107822877-d39a9f00-6d4c-11eb-86b9-b57d37867989.png)
 
 ## 2016
-August - Started medical school at Indiana University School of Medicine.
+August - Started medical school at Indiana University School of Medicine. ![orient](https://user-images.githubusercontent.com/68130554/107822930-e319e800-6d4c-11eb-82eb-321c3e972d02.png)
 
 May - Graduated from Purdue University with a major in Genetics, Minor in Religious Studies, Learning Beyond the Classroom Degree, and Research Honors in Biological Science.
