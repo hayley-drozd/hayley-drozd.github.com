@@ -12,9 +12,9 @@ My PhD research projects investigate the mechanisms underlying cognitive deficit
 
 # Publications
 
-[Lukkes JL, **Drozd HP**, Fitz SD, Molosh AI, Clapp DW, Shekhar A. Guanfacine treatment improves ADHD phenotypes of impulsivity and hyperactivity in a neurofibromatosis type 1 mouse model. J Neurodev Disord. 2020 Jan 15;12(1):2. doi: 10.1186/s11689-019-9304-y. PMID: 31941438; PMCID: PMC6961243.] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6961243/)
+[Lukkes JL, **Drozd HP**, Fitz SD, Molosh AI, Clapp DW, Shekhar A. Guanfacine treatment improves ADHD phenotypes of impulsivity and hyperactivity in a neurofibromatosis type 1 mouse model. J Neurodev Disord. 2020 Jan 15;12(1):2. doi: 10.1186/s11689-019-9304-y. PMID: 31941438; PMCID: PMC6961243.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6961243/)
 
-[**Drozd HP**, Karathanasis SF, Molosh AI, Lukkes JL, Clapp DW, Shekhar A. From bedside to bench and back: Translating ASD models. Prog Brain Res. 2018;241:113-158. doi: 10.1016/bs.pbr.2018.10.003. Epub 2018 Nov 7. PMID: 30447753.] (https://pubmed.ncbi.nlm.nih.gov/30447753/)
+[**Drozd HP**, Karathanasis SF, Molosh AI, Lukkes JL, Clapp DW, Shekhar A. From bedside to bench and back: Translating ASD models. Prog Brain Res. 2018;241:113-158. doi: 10.1016/bs.pbr.2018.10.003. Epub 2018 Nov 7. PMID: 30447753.](https://pubmed.ncbi.nlm.nih.gov/30447753/)
 
 
 
@@ -26,7 +26,7 @@ R. Ranga, **H.P. Drozd**, J.L. Lukkes, D. Wade Clapp, A.I. Molosh, A. Shekhar. D
 
 J.L. Lukkes, S.D. Fitz, **H.P. Drozd**, D. Wade Clapp, A.I. Molosh, A. Shekhar. Guanfacine decreases impulsivity in a mouse model of Neurofibromatosis type 1 received 2nd place at the 2019 Stark Summer Science Symposium poster session, presented by H. P. Drozd.
 
-**H.P. Drozd**, J.L. Lukkes, A.R. Abreu, E.T. Dustrude, Su-Jung Park, D. Wade Clapp, A.I. Molosh, A. Shekhar.	[Autism and ADHD in NF1: Insights from a Mouse Model] (http://journals.iupui.edu/index.php/insight/article/download/22558/22016/34449) was accepted at the 2017 IMPRS SRPinAM Poster Session and selected for IMPRS oral presentation, receiving 3rd place award of William H. and Fern L. Hardiman Scholarship, presented by H. P. Drozd.
+**H.P. Drozd**, J.L. Lukkes, A.R. Abreu, E.T. Dustrude, Su-Jung Park, D. Wade Clapp, A.I. Molosh, A. Shekhar.	[Autism and ADHD in NF1: Insights from a Mouse Model](http://journals.iupui.edu/index.php/insight/article/download/22558/22016/34449) was accepted at the 2017 IMPRS SRPinAM Poster Session and selected for IMPRS oral presentation, receiving 3rd place award of William H. and Fern L. Hardiman Scholarship, presented by H. P. Drozd.
 
 **H. P. Drozd**, Q. Wu, A. Chubykin. Projections onto Primary Visual Cortex and Channelrhodopsin2 Expression in VGlut2-ChR2-EYFP Mouse Line was accepted at the 2016 Undergraduate Honors Research Day poster session at Purdue University and for Honors Research Degree through Purdue University Department of Biological Sciences, presented by H. P. Drozd.
 
