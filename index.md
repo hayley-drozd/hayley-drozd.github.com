@@ -35,22 +35,27 @@ J.L. Lukkes, S.D. Fitz, **H.P. Drozd**, D. Wade Clapp, A.I. Molosh, A. Shekhar. 
 # Mentorship
 
 ## I would like to thank my fabulous mentors for their dedication to my training and success as a future physician-scientist:
-
+![shekhar](https://user-images.githubusercontent.com/68130554/107825204-b8319300-6d50-11eb-9fb5-38d6775f4e35.png)
 ### Anantha Shekhar, MD, PhD
 - Senior Vice Chancellor for the Health Sciences, John and Gertrude Petersen Dean, University of Pittsburgh School of Medicine
 
+![clapp](https://user-images.githubusercontent.com/68130554/107825398-08105a00-6d51-11eb-8710-0af3ba85cdc6.png)
 ### D. Wade Clapp, MD
 - Department of Pediatrics Chair, Indiana University School of Medicine
 
+![lukkes](https://user-images.githubusercontent.com/68130554/107825376-fd55c500-6d50-11eb-91fe-1df07ab2f6e6.png)
 ### Jodi Lukkes, PhD
 - Assistant Research Professor of Psychiatry, Indiana University School of Medicine
 
+![lapish](https://user-images.githubusercontent.com/68130554/107825542-4a399b80-6d51-11eb-8274-6daba9c87818.png)
 ### Christopher Lapish, PhD
 - Associate Professor, Indiana University Purdue University Indianapolis
 
+![mckinzie](https://user-images.githubusercontent.com/68130554/107825419-1199c200-6d51-11eb-9cb3-f506b1430e39.png)
 ### David McKinzie, PhD
 - Professor of Pharmacology & Toxicology, Indiana University School of Medicine
 
+![block](https://user-images.githubusercontent.com/68130554/107825455-270eec00-6d51-11eb-9101-46a5c3833d40.png)
 ### Michelle Block, PhD
 - Paul Stark Professor of Pharmacology, Indiana University School of Medicine
 
@@ -100,9 +105,16 @@ March - Completed USMLE Step 1 examination!
 February - Accepted to the IUSM MSTP!
 
 ## 2017
-May to August - IMPRS SRPinAM 3rd Place: William H. and Fern L. Hardiman Scholarship for Poster and Oral Presentation of Autism and ADHD in NF1: Insights from a Mouse Model ![IMPRS](https://user-images.githubusercontent.com/68130554/107822877-d39a9f00-6d4c-11eb-86b9-b57d37867989.png)
+![orient](https://user-images.githubusercontent.com/68130554/107822930-e319e800-6d4c-11eb-82eb-321c3e972d02.png)
+August - Committee for Medical School Orientation
+
+![IMPRS](https://user-images.githubusercontent.com/68130554/107822877-d39a9f00-6d4c-11eb-86b9-b57d37867989.png)
+May to August - IMPRS SRPinAM 3rd Place: William H. and Fern L. Hardiman Scholarship for Poster and Oral Presentation of Autism and ADHD in NF1: Insights from a Mouse Model 
 
 ## 2016
-August - Started medical school at Indiana University School of Medicine. ![orient](https://user-images.githubusercontent.com/68130554/107822930-e319e800-6d4c-11eb-82eb-321c3e972d02.png)
+![med](https://user-images.githubusercontent.com/68130554/107825087-83254080-6d50-11eb-9b2b-4bc7de4993a2.png)
+August - Started medical school at Indiana University School of Medicine. 
 
 May - Graduated from Purdue University with a major in Genetics, Minor in Religious Studies, Learning Beyond the Classroom Degree, and Research Honors in Biological Science.
+
+
