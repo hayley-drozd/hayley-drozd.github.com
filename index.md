@@ -1,6 +1,6 @@
 # Intro to Hayley Drozd
 
-I am an MD-PhD candidate at the Indiana University School of Medicine Medical Scientist Training Program. I'm currently in my 5th year of the MSTP and 3rd year of graduate school in the Medical Neurosciences program. My long-term goal is to be a leading physician scientist in Developmental Pediatrics, bridging the global impact of scientific discovery to the direct impact of patient care and community advocacy for children and adults with neurodevelopmental disorders. 
+I am an MD-PhD candidate at the Indiana University School of Medicine (IUSM) Medical Scientist Training Program (MSTP). I'm a rising 6th year MSTP student; I plan to defend my dissertation and complete graduate school in the Medical Neurosciences program in early 2022. My long-term goal is to be a leading physician scientist in Developmental Pediatrics, bridging the global impact of scientific discovery to the direct impact of patient care and community advocacy for children and adults with neurodevelopmental disorders. 
 
 My PhD research projects investigate the mechanisms underlying cognitive deficits in Neurofibromatosis Type 1 using a preclinical mouse model. Neurofibromatosis type 1 (NF1) is one of the most common genetic disorders worldwide, with no curative treatment for its many symptoms: neurocutaneous lesions, developmental disorders, and tumors. One of the most substantial concerns for NF1 patients are cognitive symptoms inlcuding an increased incidence of autism spectrum disorders (30% of patients) and attention deficit hyperactivity disorder (ADHD) (50-80% of patients). My projects investigate the underlying mechanisms of these cognitive features of NF1 using: 
 - optogenetic approaches to map brain areas involved in social memory
@@ -35,27 +35,21 @@ J.L. Lukkes, S.D. Fitz, **H.P. Drozd**, D. Wade Clapp, A.I. Molosh, A. Shekhar. 
 # Mentorship
 
 ## I would like to thank my fabulous mentors for their dedication to my training and success as a future physician-scientist:
-![shekhar](https://user-images.githubusercontent.com/68130554/107825204-b8319300-6d50-11eb-9fb5-38d6775f4e35.png)
 ### Anantha Shekhar, MD, PhD
 - Senior Vice Chancellor for the Health Sciences, John and Gertrude Petersen Dean, University of Pittsburgh School of Medicine
 
-![clapp](https://user-images.githubusercontent.com/68130554/107825398-08105a00-6d51-11eb-8710-0af3ba85cdc6.png)
 ### D. Wade Clapp, MD
 - Department of Pediatrics Chair, Indiana University School of Medicine
 
-![lukkes](https://user-images.githubusercontent.com/68130554/107825376-fd55c500-6d50-11eb-91fe-1df07ab2f6e6.png)
 ### Jodi Lukkes, PhD
 - Assistant Research Professor of Psychiatry, Indiana University School of Medicine
 
-![lapish](https://user-images.githubusercontent.com/68130554/107825542-4a399b80-6d51-11eb-8274-6daba9c87818.png)
 ### Christopher Lapish, PhD
 - Associate Professor, Indiana University Purdue University Indianapolis
 
-![mckinzie](https://user-images.githubusercontent.com/68130554/107825419-1199c200-6d51-11eb-9cb3-f506b1430e39.png)
 ### David McKinzie, PhD
 - Professor of Pharmacology & Toxicology, Indiana University School of Medicine
 
-![block](https://user-images.githubusercontent.com/68130554/107825455-270eec00-6d51-11eb-9101-46a5c3833d40.png)
 ### Michelle Block, PhD
 - Paul Stark Professor of Pharmacology, Indiana University School of Medicine
 
@@ -64,7 +58,11 @@ J.L. Lukkes, S.D. Fitz, **H.P. Drozd**, D. Wade Clapp, A.I. Molosh, A. Shekhar. 
 # News
 
 ## 2021
+March - Was chosen to join Diversity, Inclusion and Wellness Committee at Stark Neuroscience! Excited to contribute to the on-going effort to promote the diversity, inclusion, and wellness among faculty, staff, postdocs, and students of Stark Neurosciences Research Institute (SNRI)!
 
+February - Participated in Indiana University School of Medicine’s ICARE series to be prepared to lead action and conversations related to addressing systematic racism and race inequities.
+
+January - Participated in Becoming a Resilient Scientist offered by the NIH OITE to develop resilience, mentorship skills, and emmotional intelligence.
 
 ## 2020
 July - Completed the interactive track of Neuromatch Academy, an online international workshop for Computational Neuroscience.
@@ -83,7 +81,7 @@ December - Resubmission application to NIH Ruth L. Kirschstein National Research
 
 October - Attended first international conference: Society for Neuroscience 2019. Presented poster: The basolateral amygdala plays an integral role in modulating social memory deficits in neurofibromatosis type 1 mice.
 
-September - Got married to the love of my life, Holland Andrew - cheers! <3 ![wedding](https://user-images.githubusercontent.com/68130554/107823057-1c525800-6d4d-11eb-885d-eefde7d8350d.png)
+September - Got married to the love of my life, Holland Andrew - cheers! <3
 
 August - Rineet Ranga, my summer mentee, presented his summer project at Indianapolis Project Seed oral and poster sessions in August - great job Rineet!
 
@@ -112,7 +110,6 @@ August - Committee for Medical School Orientation
 May to August - IMPRS SRPinAM 3rd Place: William H. and Fern L. Hardiman Scholarship for Poster and Oral Presentation of Autism and ADHD in NF1: Insights from a Mouse Model 
 
 ## 2016
-![med](https://user-images.githubusercontent.com/68130554/107825087-83254080-6d50-11eb-9b2b-4bc7de4993a2.png)
 August - Started medical school at Indiana University School of Medicine. 
 
 May - Graduated from Purdue University with a major in Genetics, Minor in Religious Studies, Learning Beyond the Classroom Degree, and Research Honors in Biological Science.
