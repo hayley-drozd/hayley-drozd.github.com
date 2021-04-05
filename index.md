@@ -20,6 +20,8 @@ My PhD research projects investigate the mechanisms underlying cognitive deficit
 
 # Posters
 
+**H.P. Drozd**, J.L. Lukkes, C.C. Lapish, A. Shekhar, D. Wade Clapp. Mouse Model of Neurofibromatosis Type 1 Recapitulates ADHD Phenotype: in vivo recordings in corticoaccumbal regions was accepted at the Indianapolis Society for Neuroscience poster session 2021, presented by H.P. Drozd.
+
 **H.P. Drozd**, J.L. Lukkes, A.R. Abreu, E.T. Dustrude, D. Wade Clapp, A.I. Molosh, A. Shekhar. The basolateral amygdala plays an integral role in modulating social memory deficits in neurofibromatosis type 1 mice was accepted at the Society for Neuroscience poster session 2019, presented by H.P. Drozd.
 
 R. Ranga, **H.P. Drozd**, J.L. Lukkes, D. Wade Clapp, A.I. Molosh, A. Shekhar. Deletion of neurofibromin in the basolateral amygdala of mice leads to long-term social behavior deficits was presented by R. Ranga, student mentored by H.P. Drozd, at the 2019 Indianapolis Project Seed oral and poster sessions.
@@ -34,7 +36,8 @@ J.L. Lukkes, S.D. Fitz, **H.P. Drozd**, D. Wade Clapp, A.I. Molosh, A. Shekhar. 
 
 # Mentorship
 
-## I would like to thank my fabulous mentors for their dedication to my training and success as a future physician-scientist:
+### I would like to thank my fabulous mentors for their dedication to my training and success as a future physician-scientist:
+
 ### Anantha Shekhar, MD, PhD
 - Senior Vice Chancellor for the Health Sciences, John and Gertrude Petersen Dean, University of Pittsburgh School of Medicine
 
@@ -60,9 +63,11 @@ J.L. Lukkes, S.D. Fitz, **H.P. Drozd**, D. Wade Clapp, A.I. Molosh, A. Shekhar. 
 ## 2021
 March - Was chosen to join Diversity, Inclusion and Wellness Committee at Stark Neuroscience! Excited to contribute to the on-going effort to promote the diversity, inclusion, and wellness among faculty, staff, postdocs, and students of Stark Neurosciences Research Institute (SNRI)!
 
+February - Dr. Wade Clapp was named Distinguished Professor at Indiana University - congrats!
+
 February - Participated in Indiana University School of Medicine’s ICARE series to be prepared to lead action and conversations related to addressing systematic racism and race inequities.
 
-January - Participated in Becoming a Resilient Scientist offered by the NIH OITE to develop resilience, mentorship skills, and emmotional intelligence.
+January - Participated in "Becoming a Resilient Scientist" offered by the NIH OITE to develop resilience, mentorship skills, and emmotional intelligence.
 
 ## 2020
 July - Completed the interactive track of Neuromatch Academy, an online international workshop for Computational Neuroscience.
@@ -103,10 +108,10 @@ March - Completed USMLE Step 1 examination!
 February - Accepted to the IUSM MSTP!
 
 ## 2017
-![orient](https://user-images.githubusercontent.com/68130554/107822930-e319e800-6d4c-11eb-82eb-321c3e972d02.png)
+![orient](https://user-images.githubusercontent.com/68130554/107822930-e319e800-6d4c-11eb-82eb-321c3e972d02.png =250x250)
 August - Committee for Medical School Orientation
 
-![IMPRS](https://user-images.githubusercontent.com/68130554/107822877-d39a9f00-6d4c-11eb-86b9-b57d37867989.png)
+![IMPRS](https://user-images.githubusercontent.com/68130554/107822877-d39a9f00-6d4c-11eb-86b9-b57d37867989.png =250x250)
 May to August - IMPRS SRPinAM 3rd Place: William H. and Fern L. Hardiman Scholarship for Poster and Oral Presentation of Autism and ADHD in NF1: Insights from a Mouse Model 
 
 ## 2016
