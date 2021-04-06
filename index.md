@@ -108,10 +108,8 @@ March - Completed USMLE Step 1 examination!
 February - Accepted to the IUSM MSTP!
 
 ## 2017
-![orient](https://user-images.githubusercontent.com/68130554/107822930-e319e800-6d4c-11eb-82eb-321c3e972d02.png =250x250)
 August - Committee for Medical School Orientation
 
-![IMPRS](https://user-images.githubusercontent.com/68130554/107822877-d39a9f00-6d4c-11eb-86b9-b57d37867989.png =250x250)
 May to August - IMPRS SRPinAM 3rd Place: William H. and Fern L. Hardiman Scholarship for Poster and Oral Presentation of Autism and ADHD in NF1: Insights from a Mouse Model 
 
 ## 2016
