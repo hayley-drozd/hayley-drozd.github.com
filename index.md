@@ -10,11 +10,13 @@ My PhD research projects investigate the mechanisms underlying cognitive deficit
 - in vivo multiwire electrode recordings and computational neuroscience approaches to examine impulsivity in NF1
 - biochemistry and gene targeting to investigate a novel treatment targeting cognitive phenotypes and tumor predisposition in NF1
 
-
+See [Twitter](https://twitter.com/hayley_drozd) for medicine/science updates.
+See [Instagram](https://www.instagram.com/mrs_hayley_andrew/) for pets and aerial acrobatics.
 
 # Publications
 
-[See ORC ID] (https://orcid.org/0000-0003-1220-4222)
+[See ORC ID](https://orcid.org/0000-0003-1220-4222)
+[See Google Scholar](https://scholar.google.com/citations?user=ezrvAcwAAAAJ&hl=en)
 
 [Lukkes JL, **Drozd HP**, Fitz SD, Molosh AI, Clapp DW, Shekhar A. Guanfacine treatment improves ADHD phenotypes of impulsivity and hyperactivity in a neurofibromatosis type 1 mouse model. J Neurodev Disord. 2020 Jan 15;12(1):2. doi: 10.1186/s11689-019-9304-y. PMID: 31941438; PMCID: PMC6961243.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6961243/)
 
