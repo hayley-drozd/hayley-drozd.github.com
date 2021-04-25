@@ -1,4 +1,4 @@
-![int](https://user-images.githubusercontent.com/68130554/116011194-beb27580-a5f1-11eb-99ad-6f84fd52368b.png)
+![white](https://user-images.githubusercontent.com/68130554/116011246-f7eae580-a5f1-11eb-9d54-6d96da8a436d.png)
 
 # Intro to Hayley Drozd
 
