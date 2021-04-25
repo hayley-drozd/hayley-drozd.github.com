@@ -1,8 +1,5 @@
 ![white](https://user-images.githubusercontent.com/68130554/116011246-f7eae580-a5f1-11eb-9d54-6d96da8a436d.png)
-
-
-
-
+![blank](https://user-images.githubusercontent.com/68130554/116012042-22d73880-a5f6-11eb-9715-d4420bee3b60.png)
 ![introduction](https://user-images.githubusercontent.com/68130554/116011825-f838b000-a5f4-11eb-869a-92146d6d64d8.png)
 
 I am an MD-PhD candidate at the Indiana University School of Medicine (IUSM) Medical Scientist Training Program (MSTP). I'm a rising 6th year MSTP student; I plan to defend my dissertation and complete graduate school in the Medical Neurosciences program in early 2022. My long-term goal is to be a leading physician scientist in Developmental Pediatrics, bridging the global impact of scientific discovery to the direct impact of patient care and community advocacy for children and adults with neurodevelopmental disorders. 
@@ -14,12 +11,10 @@ My PhD research projects investigate the mechanisms underlying cognitive deficit
 - biochemistry and gene targeting to investigate a novel treatment targeting cognitive phenotypes and tumor predisposition in NF1
 
 See [Twitter](https://twitter.com/hayley_drozd) for medicine/science updates.
-See [Instagram](https://www.instagram.com/mrs_hayley_andrew/) for pets and aerial acrobatics.
 
+See [Instagram](https://www.instagram.com/mrs_hayley_andrew/) for aerial acrobatics.
 
-
-
-
+![blank](https://user-images.githubusercontent.com/68130554/116012042-22d73880-a5f6-11eb-9715-d4420bee3b60.png)
 ![publications](https://user-images.githubusercontent.com/68130554/116011835-ff5fbe00-a5f4-11eb-8e0e-9082b29d27ad.png)
 
 [See ORC ID](https://orcid.org/0000-0003-1220-4222)
@@ -30,7 +25,7 @@ See [Instagram](https://www.instagram.com/mrs_hayley_andrew/) for pets and aeria
 
 [**Drozd HP**, Karathanasis SF, Molosh AI, Lukkes JL, Clapp DW, Shekhar A. From bedside to bench and back: Translating ASD models. Prog Brain Res. 2018;241:113-158. doi: 10.1016/bs.pbr.2018.10.003. Epub 2018 Nov 7. PMID: 30447753.](https://pubmed.ncbi.nlm.nih.gov/30447753/)
 
-
+#Posters
 
 **H.P. Drozd**, J.L. Lukkes, C.C. Lapish, A. Shekhar, D. Wade Clapp. Mouse Model of Neurofibromatosis Type 1 Recapitulates ADHD Phenotype: in vivo recordings in corticoaccumbal regions was awarded the Outstanding Graduate Student Poster at the Indianapolis Society for Neuroscience and Beyond Boundaries Conference 2021, presented by H.P. Drozd.
 
@@ -44,9 +39,7 @@ J.L. Lukkes, S.D. Fitz, **H.P. Drozd**, D. Wade Clapp, A.I. Molosh, A. Shekhar. 
 
 **H. P. Drozd**, Q. Wu, A. Chubykin. Projections onto Primary Visual Cortex and Channelrhodopsin2 Expression in VGlut2-ChR2-EYFP Mouse Line was accepted at the 2016 Undergraduate Honors Research Day poster session at Purdue University and for Honors Research Degree through Purdue University Department of Biological Sciences, presented by H. P. Drozd.
 
-
-
-
+![blank](https://user-images.githubusercontent.com/68130554/116012042-22d73880-a5f6-11eb-9715-d4420bee3b60.png)
 ![mentors](https://user-images.githubusercontent.com/68130554/116011845-08508f80-a5f5-11eb-9fae-c502b909428e.png)
 
 ### I would like to thank my incredible mentors for their dedication to my training and success as a future physician-scientist:
@@ -79,9 +72,7 @@ J.L. Lukkes, S.D. Fitz, **H.P. Drozd**, D. Wade Clapp, A.I. Molosh, A. Shekhar. 
 ### Dorota Szczepaniak, MD
 - Division Chief, Associate Professor of Clinical Pediatrics, Indiana University School of Medicine
 
-
-
-
+![blank](https://user-images.githubusercontent.com/68130554/116012042-22d73880-a5f6-11eb-9715-d4420bee3b60.png)
 ![news](https://user-images.githubusercontent.com/68130554/116011848-0edf0700-a5f5-11eb-87e7-325a3c04f12d.png)
 
 ## 2021
@@ -143,9 +134,7 @@ August - Started medical school at Indiana University School of Medicine.
 
 May - Graduated from Purdue University with a major in Genetics, Minor in Religious Studies, Learning Beyond the Classroom Degree, and Research Honors in Biological Science.
 
-
-
-
+![blank](https://user-images.githubusercontent.com/68130554/116012042-22d73880-a5f6-11eb-9715-d4420bee3b60.png)
 ![contact](https://user-images.githubusercontent.com/68130554/116011818-efe07500-a5f4-11eb-9bc8-035c5a71d8e4.png)
 
 [Linked In](https://www.linkedin.com/in/hayley-drozd-a0a9a7b0/)
