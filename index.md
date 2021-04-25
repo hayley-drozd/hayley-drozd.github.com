@@ -16,6 +16,7 @@ See [Instagram](https://www.instagram.com/mrs_hayley_andrew/) for pets and aeria
 # Publications
 
 [See ORC ID](https://orcid.org/0000-0003-1220-4222)
+
 [See Google Scholar](https://scholar.google.com/citations?user=ezrvAcwAAAAJ&hl=en)
 
 [Lukkes JL, **Drozd HP**, Fitz SD, Molosh AI, Clapp DW, Shekhar A. Guanfacine treatment improves ADHD phenotypes of impulsivity and hyperactivity in a neurofibromatosis type 1 mouse model. J Neurodev Disord. 2020 Jan 15;12(1):2. doi: 10.1186/s11689-019-9304-y. PMID: 31941438; PMCID: PMC6961243.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6961243/)
@@ -42,27 +43,35 @@ J.L. Lukkes, S.D. Fitz, **H.P. Drozd**, D. Wade Clapp, A.I. Molosh, A. Shekhar. 
 
 # Mentorship
 
-### I would like to thank my fabulous mentors for their dedication to my training and success as a future physician-scientist:
+### I would like to thank my incredible mentors for their dedication to my training and success as a future physician-scientist:
 
+![shekhar](https://user-images.githubusercontent.com/68130554/116011389-c3c3f480-a5f2-11eb-994e-28b1dd501850.png)
 ### Anantha Shekhar, MD, PhD
 - Senior Vice Chancellor for the Health Sciences, John and Gertrude Petersen Dean, University of Pittsburgh School of Medicine
 
+![clapp](https://user-images.githubusercontent.com/68130554/116011386-bc9ce680-a5f2-11eb-968a-a38eecd3628b.png)
 ### D. Wade Clapp, MD
 - Department of Pediatrics Chair, Indiana University School of Medicine
 
+![lukkes](https://user-images.githubusercontent.com/68130554/116011397-c9b9d580-a5f2-11eb-9b56-6f8afb7d06fa.png)
 ### Jodi Lukkes, PhD
 - Assistant Research Professor of Psychiatry, Indiana University School of Medicine
 
+![lapish](https://user-images.githubusercontent.com/68130554/116011359-95461980-a5f2-11eb-8037-9d9ec6769d21.png)
 ### Christopher Lapish, PhD
 - Associate Professor, Indiana University Purdue University Indianapolis
 
+![mckinzie](https://user-images.githubusercontent.com/68130554/116011400-d1797a00-a5f2-11eb-8874-2382eddbe6b1.png)
 ### David McKinzie, PhD
 - Professor of Pharmacology & Toxicology, Indiana University School of Medicine
 
+![block](https://user-images.githubusercontent.com/68130554/116011363-9bd49100-a5f2-11eb-832b-9d5a89653c94.png)
 ### Michelle Block, PhD
 - Paul Stark Professor of Pharmacology, Indiana University School of Medicine
 
-
+![szczepaniak](https://user-images.githubusercontent.com/68130554/116011406-d8a08800-a5f2-11eb-8abb-dae6f9a79e3f.png)
+### Dorota Szczepaniak, MD
+- Division Chief, Associate Professor of Clinical Pediatrics, Indiana University School of Medicine
 
 # News
 
