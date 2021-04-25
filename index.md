@@ -1,3 +1,5 @@
+![intro](https://user-images.githubusercontent.com/68130554/116010618-1222c480-a5ee-11eb-8495-4c84f815647f.png)
+
 # Intro to Hayley Drozd
 
 I am an MD-PhD candidate at the Indiana University School of Medicine (IUSM) Medical Scientist Training Program (MSTP). I'm a rising 6th year MSTP student; I plan to defend my dissertation and complete graduate school in the Medical Neurosciences program in early 2022. My long-term goal is to be a leading physician scientist in Developmental Pediatrics, bridging the global impact of scientific discovery to the direct impact of patient care and community advocacy for children and adults with neurodevelopmental disorders. 
