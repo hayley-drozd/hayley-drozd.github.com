@@ -12,6 +12,8 @@ My PhD research projects investigate the mechanisms underlying cognitive deficit
 
 # Publications
 
+[See ORC ID] (https://orcid.org/0000-0003-1220-4222)
+
 [Lukkes JL, **Drozd HP**, Fitz SD, Molosh AI, Clapp DW, Shekhar A. Guanfacine treatment improves ADHD phenotypes of impulsivity and hyperactivity in a neurofibromatosis type 1 mouse model. J Neurodev Disord. 2020 Jan 15;12(1):2. doi: 10.1186/s11689-019-9304-y. PMID: 31941438; PMCID: PMC6961243.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6961243/)
 
 [**Drozd HP**, Karathanasis SF, Molosh AI, Lukkes JL, Clapp DW, Shekhar A. From bedside to bench and back: Translating ASD models. Prog Brain Res. 2018;241:113-158. doi: 10.1016/bs.pbr.2018.10.003. Epub 2018 Nov 7. PMID: 30447753.](https://pubmed.ncbi.nlm.nih.gov/30447753/)
@@ -20,7 +22,7 @@ My PhD research projects investigate the mechanisms underlying cognitive deficit
 
 # Posters
 
-**H.P. Drozd**, J.L. Lukkes, C.C. Lapish, A. Shekhar, D. Wade Clapp. Mouse Model of Neurofibromatosis Type 1 Recapitulates ADHD Phenotype: in vivo recordings in corticoaccumbal regions was accepted at the Indianapolis Society for Neuroscience poster session 2021, presented by H.P. Drozd.
+**H.P. Drozd**, J.L. Lukkes, C.C. Lapish, A. Shekhar, D. Wade Clapp. Mouse Model of Neurofibromatosis Type 1 Recapitulates ADHD Phenotype: in vivo recordings in corticoaccumbal regions was awarded the Outstanding Graduate Student Poster at the Indianapolis Society for Neuroscience and Beyond Boundaries Conference 2021, presented by H.P. Drozd.
 
 **H.P. Drozd**, J.L. Lukkes, A.R. Abreu, E.T. Dustrude, D. Wade Clapp, A.I. Molosh, A. Shekhar. The basolateral amygdala plays an integral role in modulating social memory deficits in neurofibromatosis type 1 mice was accepted at the Society for Neuroscience poster session 2019, presented by H.P. Drozd.
 
@@ -61,6 +63,8 @@ J.L. Lukkes, S.D. Fitz, **H.P. Drozd**, D. Wade Clapp, A.I. Molosh, A. Shekhar. 
 # News
 
 ## 2021
+April - My presentation of the poster "Mouse Model of Neurofibromatosis Type 1 Recapitulates ADHD Phenotype: in vivo recordings in corticoaccumbal regions" was awarded the Outstanding Graduate Student Poster Award at the Indianapolis Society for Neuroscience and Beyond Boundaries Conference 2021. Thankful for the opportunity and recognition of the laboratory's hard work!
+
 March - Was chosen to join Diversity, Inclusion and Wellness Committee at Stark Neuroscience! Excited to contribute to the on-going effort to promote the diversity, inclusion, and wellness among faculty, staff, postdocs, and students of Stark Neurosciences Research Institute (SNRI)!
 
 February - Dr. Wade Clapp was named Distinguished Professor at Indiana University - congrats!
