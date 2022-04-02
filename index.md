@@ -3,7 +3,7 @@
 ![blank](https://user-images.githubusercontent.com/68130554/116012107-8cefdd80-a5f6-11eb-91e5-5cbd7be443b3.png)
 ![introduction](https://user-images.githubusercontent.com/68130554/116011825-f838b000-a5f4-11eb-869a-92146d6d64d8.png)
 
-I am an MD-PhD candidate at the Indiana University School of Medicine (IUSM) Medical Scientist Training Program (MSTP). I'm a rising 6th year MSTP student; I plan to defend my dissertation and complete graduate school in the Medical Neurosciences program in early 2022. My long-term goal is to be a leading physician scientist in Developmental Pediatrics, bridging the global impact of scientific discovery to the direct impact of patient care and community advocacy for children and adults with neurodevelopmental disorders. 
+I am an MD-PhD candidate at the Indiana University School of Medicine (IUSM) Medical Scientist Training Program (MSTP). I'm an MS3 student, and recently defended my PhD in January 2022 in the Medical Neurosciences program. My long-term goal is to be a leading physician scientist in Developmental Pediatrics, bridging the global impact of scientific discovery to the direct impact of patient care and community advocacy for children and adults with neurodevelopmental disorders. 
 
 My PhD research projects investigate the mechanisms underlying cognitive deficits in Neurofibromatosis Type 1 using a preclinical mouse model. Neurofibromatosis type 1 (NF1) is one of the most common genetic disorders worldwide, with no curative treatment for its many symptoms: neurocutaneous lesions, developmental disorders, and tumors. One of the most substantial concerns for NF1 patients are cognitive symptoms inlcuding an increased incidence of autism spectrum disorders (30% of patients) and attention deficit hyperactivity disorder (ADHD) (50-80% of patients). My projects investigate the underlying mechanisms of these cognitive features of NF1 using: 
 - optogenetic approaches to map brain areas involved in social memory
@@ -26,7 +26,29 @@ See [Instagram](https://www.instagram.com/mrs_hayley_andrew/) for aerial acrobat
 
 [**Drozd HP**, Karathanasis SF, Molosh AI, Lukkes JL, Clapp DW, Shekhar A. From bedside to bench and back: Translating ASD models. Prog Brain Res. 2018;241:113-158. doi: 10.1016/bs.pbr.2018.10.003. Epub 2018 Nov 7. PMID: 30447753.](https://pubmed.ncbi.nlm.nih.gov/30447753/)
 
+J.L. Lukkes*, **H.P. Drozd**, A.R. Abreu; E.T. Dustrude; S.D. Fitz, D.W. Clapp, A.I. Molosh, A. Shekhar.	Identification of Cortical-limbic-striatal circuit regulating social memory and optogenetic manipulation of the circuit to restore social memory deficits in a mouse model of neurofibromatosis type 1 is under review by Biological Psychiatry.
+
 #Posters
+**H.P. Drozd**, J.L. Lukkes, C.C. Lapish, A. Shekhar, D.W. Clapp.	Decreased Corticostriatal Synchrony Underlies ADHD Phenotypes in preclinical Neurofibromatosis Type 1 presented by H.P. Drozd at the Indianapolis Society for Neuroscience and Beyond Boundaries poster session, 2022.
+
+**H.P. Drozd**, J.L. Lukkes, C.C. Lapish, A. Shekhar, D.W. Clapp.	Presentation: Cortico-striatal Circuitry and Cognitive Impairments in NF1. H.P. Drozd was invited to give an oral presentation at the University of Manchester in May 2022.
+
+**H.P. Drozd**, J.L. Lukkes, C.C. Lapish, A. Shekhar, D.W. Clapp.	Cortico-striatal Neural Recordings and Optogenetic Rescue of Social Deficits in a preclinical model of Neurofibromatosis Type 1 will be reviewed to be presented by H.P. Drozd at the Children’s Tumor Foundation Conference, 2022.
+
+**H.P. Drozd**, J.L. Lukkes, C.C. Lapish, A. Shekhar, D.W. Clapp.	Presentation: Social Behavioral Deficits in Preclinical Neurofibromatosis Type 1: Awake-behaving Corticoaccumbal Recordings and Optogenetic Rescue. H.P. Drozd was invited to give an oral presentation at the Fragile X and Autism-Related Disorders Gordon Research Conference in May 2022.
+
+**H.P. Drozd**, J.L. Lukkes, C.C. Lapish, A. Shekhar, D.W. Clapp.						2022
+		Presentation: Aberrant Neural Activity in Cortico-striatal-limbic Circuitry Underlies Behavioral Deficits in a Mouse Model of Neurofibromatosis Type 1 was presented by H.P. Drozd for her dissertation defense.
+
+**H.P. Drozd**, J.L. Lukkes, C.C. Lapish, A. Shekhar, D.W. Clapp.						2021
+		Presentation: Corticostriatal Activity in Autism Spectrum Disorders was presented by H.P. Drozd for the 3-minute Thesis competition hosted by IUPUI PPFP Pathways Conference and was awarded the People’s Choice Award.
+
+**H.P. Drozd**, J.L. Lukkes, C.C. Lapish, A. Shekhar, D.W. Clapp.						2021
+		Presentation: Awake-Behaving Corticoaccumbal Recordings and Optogenetic Rescue of Social Behavioral Deficits in a Preclinical Model of Neurofibromatosis Type 1 was presented by H.P. Drozd at the Stark Seminar Series.
+
+**H.P. Drozd**, J.L. Lukkes, C.C. Lapish, A. Shekhar, D.W. Clapp.	Presentation: Awake-Behaving Corticoaccumbal Recordings and Optogenetic Rescue of Social Behavioral Deficits in a Preclinical Model of Neurofibromatosis Type 1. H.P. Drozd receive a travel award and gave a talk at the Society for Developmental Pediatrics annual national meeting in 2021. 
+
+**H.P. Drozd**, J.L. Lukkes, C.C. Lapish, A. Shekhar, D.W. Clapp. Awake-Behaving Corticoaccumbal Recordings of Hyperactive-Impulsive Phenotypes in a Preclinical Model of Neurofibromatosis Type 1. H.P. Drozd was selected of IUSM MSTP students to present at the 36th Annual National MD-PhD Conference in 2021.
 
 **H.P. Drozd**, J.L. Lukkes, C.C. Lapish, A. Shekhar, D. Wade Clapp. Mouse Model of Neurofibromatosis Type 1 Recapitulates ADHD Phenotype: in vivo recordings in corticoaccumbal regions was awarded the Outstanding Graduate Student Poster at the Indianapolis Society for Neuroscience and Beyond Boundaries Conference 2021, presented by H.P. Drozd.
 
@@ -76,16 +98,35 @@ J.L. Lukkes, S.D. Fitz, **H.P. Drozd**, D. Wade Clapp, A.I. Molosh, A. Shekhar. 
 ![blank](https://user-images.githubusercontent.com/68130554/116012107-8cefdd80-a5f6-11eb-91e5-5cbd7be443b3.png)
 ![news](https://user-images.githubusercontent.com/68130554/116011848-0edf0700-a5f5-11eb-87e7-325a3c04f12d.png)
 
+## 2022
+April - Back to clinic! I have my suture kit, ceil-colored scrubs, and First Steps in hand!
+
+March - Thankful for travel funding awards so that I can present in my first in-person conference in three years! Jack Bauer Honor Fund by the IU MSTP, IUPUI Graduate and Professional Educational Grant, and the Stark Neuroscience Research Institute. 
+
+January - What a day! I passed my dissertation defense today - so thankful for all those who supported me along the way.
+
 ## 2021
+December - Submitted my written dissertation to my committee for review!
+
+November - What a challenge to communicate the most impactful parts of my research in 3-minutes - received the the People’s Choice Award at the 3-minute Thesis competition hosted by IUPUI PPFP Pathways.
+
+October - Had a wonderful time meeting incredible mentors at the Society for Developmental Behavioral Pediatrics meeting and giving the first oral presentation of my work at a national conference!
+
+August - My mentee, Gabriele Brandt, did an excellent job presenting her summer research at the end-of-summer Hanover virtual conference!
+
+July - Enjoyed a fun-filled weekend of MD-PhD-ness! Attended my first National MD-PhD Conference and our IUSM MSTP retreat all in the same weekend. Loved meeting all our new students and spending time with colleagues in person.
+
 April - My presentation of the poster "Mouse Model of Neurofibromatosis Type 1 Recapitulates ADHD Phenotype: in vivo recordings in corticoaccumbal regions" was awarded the Outstanding Graduate Student Poster Award at the Indianapolis Society for Neuroscience and Beyond Boundaries Conference 2021. Thankful for the opportunity and recognition of the laboratory's hard work!
 
 March - Was chosen to join Diversity, Inclusion and Wellness Committee at Stark Neuroscience! Excited to contribute to the on-going effort to promote the diversity, inclusion, and wellness among faculty, staff, postdocs, and students of Stark Neurosciences Research Institute (SNRI)!
+
+February - Had a lively discussed about preparing grants with IU's Melvin and Bren Simon Comprehensive Cancer Center. Thanks for the invitation to give a presentation about F30 applications.
 
 February - Dr. Wade Clapp was named Distinguished Professor at Indiana University - congrats!
 
 February - Participated in Indiana University School of Medicine’s ICARE series to be prepared to lead action and conversations related to addressing systematic racism and race inequities.
 
-January - Participated in "Becoming a Resilient Scientist" offered by the NIH OITE to develop resilience, mentorship skills, and emmotional intelligence.
+January - Participated in "Becoming a Resilient Scientist" offered by the NIH OITE to develop resilience, mentorship skills, and emotional intelligence. It was a great combination of practical skills and new theoretical approaches in considering resilience in science and medicine. Highly recommend for trainees at any level!
 
 ## 2020
 July - Completed the interactive track of Neuromatch Academy, an online international workshop for Computational Neuroscience.
