@@ -104,6 +104,8 @@ April - Back to clinic! I have my suture kit, ceil-colored scrubs, and First Ste
 
 March - Thankful for travel funding awards so that I can present in my first in-person conference in three years! Jack Bauer Honor Fund by the IU MSTP, IUPUI Graduate and Professional Educational Grant, and the Stark Neuroscience Research Institute. 
 
+March - Holland and I hiked the four days to Machu Picchu to celebrate completing my PhD! An apt metaphor for all the hard work, ups and downs, and grand finale of completing a PhD. And we saw lots of llamas!
+
 January - What a day! I passed my dissertation defense today - so thankful for all those who supported me along the way.
 
 ## 2021
@@ -121,7 +123,7 @@ April - My presentation of the poster "Mouse Model of Neurofibromatosis Type 1 R
 
 March - Was chosen to join Diversity, Inclusion and Wellness Committee at Stark Neuroscience! Excited to contribute to the on-going effort to promote the diversity, inclusion, and wellness among faculty, staff, postdocs, and students of Stark Neurosciences Research Institute (SNRI)!
 
-February - Had a lively discussed about preparing grants with IU's Melvin and Bren Simon Comprehensive Cancer Center. Thanks for the invitation to give a presentation about F30 applications.
+February - Had a lively discussion about preparing grants with IU's Melvin and Bren Simon Comprehensive Cancer Center. Thanks for the invitation to give a presentation about F30 applications.
 
 February - Dr. Wade Clapp was named Distinguished Professor at Indiana University - congrats!
 
