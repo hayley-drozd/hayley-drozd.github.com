@@ -100,7 +100,7 @@ J.L. Lukkes, S.D. Fitz, **H.P. Drozd**, D. Wade Clapp, A.I. Molosh, A. Shekhar. 
 ![news](https://user-images.githubusercontent.com/68130554/116011848-0edf0700-a5f5-11eb-87e7-325a3c04f12d.png)
 
 ## 2022
-April - Back to clinic! I have my suture kit, ceil-colored scrubs, and First Steps in hand!
+April - Back to clinic! I have my suture kit, ceil-colored scrubs, and Bright Futures in hand!
 
 March - Thankful for travel funding awards so that I can present in my first in-person conference in three years! Jack Bauer Honor Fund by the IU MSTP, IUPUI Graduate and Professional Educational Grant, and the Stark Neuroscience Research Institute. 
 
