@@ -28,7 +28,8 @@ See [Instagram](https://www.instagram.com/mrs_hayley_andrew/) for aerial acrobat
 
 J.L. Lukkes*, **H.P. Drozd**, A.R. Abreu; E.T. Dustrude; S.D. Fitz, D.W. Clapp, A.I. Molosh, A. Shekhar.	Identification of Cortical-limbic-striatal circuit regulating social memory and optogenetic manipulation of the circuit to restore social memory deficits in a mouse model of neurofibromatosis type 1 is under review by Biological Psychiatry.
 
-#Posters
+# Posters
+
 **H.P. Drozd**, J.L. Lukkes, C.C. Lapish, A. Shekhar, D.W. Clapp.	Decreased Corticostriatal Synchrony Underlies ADHD Phenotypes in preclinical Neurofibromatosis Type 1 presented by H.P. Drozd at the Indianapolis Society for Neuroscience and Beyond Boundaries poster session, 2022.
 
 **H.P. Drozd**, J.L. Lukkes, C.C. Lapish, A. Shekhar, D.W. Clapp.	Presentation: Cortico-striatal Circuitry and Cognitive Impairments in NF1. H.P. Drozd was invited to give an oral presentation at the University of Manchester in May 2022.
